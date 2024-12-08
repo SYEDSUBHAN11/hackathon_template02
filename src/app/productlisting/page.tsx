@@ -6,6 +6,7 @@ import { LuSprout } from "react-icons/lu";
 import { MdOutlinePriceChange } from "react-icons/md";
 
 // Import your images using the @ alias
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import ProductImage from '@/public/images/ProductImage.png'; // Adjust the path as necessary
 import ImageLeft from '@/public/images/Image Left.png'; // Adjust the path as necessary
 import ChairImage from '@/public/images/chair.png'; // Import chair image
